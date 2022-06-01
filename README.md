@@ -26,8 +26,8 @@ THEN I find a concise, descriptive title
 ```
 
 ## Link
-Applications deployed site : https://timmmmma.github.io/01-HTML-CSS-and-Git-Code-Refactor/
-Github address : https://github.com/Timmmmma/01-HTML-CSS-and-Git-Code-Refactor
+Applications deployed site : https://timmmmma.github.io/Code-Refactor/
+Github address : https://github.com/Timmmmma/Code-Refactor
 
 ## Screenshot
 ![image](https://github.com/Timmmmma/02-Advanced-CSS-Portfolio/blob/main/assets/image/Horiseon%20Social%20Solution%20Services.png)
